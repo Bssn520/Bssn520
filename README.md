@@ -21,4 +21,6 @@ Maybe it will surprise you, haha.
 ![](https://img.shields.io/badge/Animation-sakura-pink)
 ![](https://img.shields.io/badge/Coding-Life-orange)
 ![](https://img.shields.io/badge/Web-Security-red)  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Bssn520's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bssn520)
