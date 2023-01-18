@@ -28,6 +28,7 @@ Maybe it will surprise you, haha.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bssn520&layout=compact&theme=material-palenight" />
+  <img align="right" src="https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/meng.2ljadw70zfs0.webp" height="425" width="250" />
 </a>
 
 <!--START_SECTION:waka-->
