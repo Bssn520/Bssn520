@@ -22,11 +22,11 @@ Maybe it will surprise you, haha.
 ![](https://img.shields.io/badge/Coding-Life-orange)
 ![](https://img.shields.io/badge/Web-Security-red)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Bssn520">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Bssn520&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bssn520's github stats" />
   <img align="right" src="https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/meng.2ljadw70zfs0.webp" height="425" width="250" />
 </a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Bssn520">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bssn520&layout=compact&theme=material-palenight" />
   
