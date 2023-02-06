@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 😎Hello, I'm Bssn520.
-Welcome to my page.    
-Maybe it will surprise you, haha.
+## 😎Hello, I'm Bssn520. Welcome to my page.     
+### 😉Maybe it will surprise you, haha.  
+##### 🧑‍🎓I'm a college student. My major is computer. I'm interesting in it.  
+##### 🌸I usually watch films、dramas、animation in my free time.  
+---
 ### Things | Coding with
 ![](https://img.shields.io/badge/python-3.11-brightgreen)
 ![](https://img.shields.io/badge/Animation-sakura-pink)
