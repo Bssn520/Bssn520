@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Bssn520">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Bssn520&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bssn520's github stats" />
-  <img align="right" src="https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/meng.2ljadw70zfs0.webp" height="425" width="250" />
+  <img align="right" src="https://cdn.jsdelivr.net/gh/Bssn520/Images@master/Test/meng.2ljadw70zfs0.webp" height="425" width="250" />
 </a> 
 <a href="https://github.com/Bssn520">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![](https://cdn.staticaly.com/gh/Bssn520/Images@master/Test/动画生涯个人喜好表.jaz46arct9s.webp)  
+![](https://cdn.jsdelivr.net/gh/Bssn520/Images@master/Test/动画生涯个人喜好表.jaz46arct9s.webp)  
